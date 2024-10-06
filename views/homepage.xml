@@ -1,0 +1,284 @@
+<t name="Homepage" t-name="website.homepage">
+    <t t-call="website.layout">
+        <t t-set="pageName" t-value="'homepage'"/>
+        <div id="wrap" class="oe_structure">
+            <section class="s_carousel_wrapper o_full_screen_height" data-vxml="001" data-snippet="s_carousel" data-name="Carousel" style="">
+                <div class="s_carousel s_carousel_default carousel pointer-event carousel-fade slide o_full_screen_height carousel_full_screen_height" data-bs-interval="5000" id="myCarousel1727583893716" style="background-image: none; height: 375px;">
+
+                    <ol class="carousel-indicators o_we_no_overlay">
+                        <li data-bs-target="#myCarousel1727583893716" class="active" data-bs-slide-to="0" aria-current="true"/>
+                        <li data-bs-target="#myCarousel1727583893716" data-bs-slide-to="1"/>
+                        <li data-bs-target="#myCarousel1727583893716" data-bs-slide-to="2"/>
+                        <li data-bs-target="#myCarousel1727583893716" data-bs-slide-to="3"/>
+                    </ol>
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item o_colored_level pt32 pb32 oe_img_bg o_bg_img_center active" style="background-image: url(&quot;/web/image/586-fa0aef95/UCCS_Colorado-SpringsCO_01.webp&quot;); background-position: 50% 100%;" data-name="Slide" data-filter-options="{&quot;filterColor&quot;:&quot;rgba(0, 0, 0, 0.5)&quot;}" data-mimetype="image/webp" data-original-id="584" data-original-src="/web/image/584-61c89604/UCCS_Colorado-SpringsCO_01.webp" data-mimetype-before-conversion="image/webp" data-resize-width="1920" data-gl-filter="custom">
+                            <div class="oe_unremovable container">
+                                <div class="row o_grid_mode" data-row-count="10">
+                                    <div class="carousel-content text-center o_colored_level o_grid_item g-col-lg-12 offset-1 offset-lg-0 g-height-7 col-lg-12 col-10" style="z-index: 1; grid-area: 4 / 1 / 11 / 13;">
+                                        <h2 class="display-3-fs">
+                                            <font class="text-o-color-4">
+                                                <span class="h2-fs">Innovative commercial <strong>Building </strong>projects,&amp;nbsp;<br/>
+                                                developed from the ground up</span>
+                                            </font>
+                                            <br/>
+                                        </h2>
+                                        <div class="s_hr pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                            <hr class="mx-auto w-75" style="border-top: 1px solid rgb(206, 212, 218);"/>
+                                        </div>
+                                        <p>
+                                            <font class="text-200">
+                                                In the building market, We specialize in constructing office buildings;&amp;nbsp;<br/>
+                                                industrial complexes; education and sports facilities; hotels; hospitals; transportation terminals;&amp;nbsp;<br/>
+                                                science and technology facilities; manufacturing, retail and special-use facilities and extensive interior construction with tenant improvements.
+                                        </font>
+                                    </p>
+                                    <p>
+                                        <a href="/markets" class="btn btn-primary" data-bs-original-title="" title="">Start your journey</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item o_colored_level pt32 pb32 oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/589-19facedb/G3-UAV_171123-35.webp&quot;); background-position: 50% 100%;" data-name="Slide" data-filter-options="{&quot;filterColor&quot;:&quot;rgba(0, 0, 0, 0.5)&quot;}" data-mimetype="image/webp" data-original-id="587" data-original-src="/web/image/587-eb1ac5eb/G3-UAV_171123-35.webp" data-mimetype-before-conversion="image/webp" data-resize-width="1920" data-gl-filter="custom">
+                        <div class="oe_unremovable container">
+                            <div class="row o_grid_mode" data-row-count="10">
+                                <div class="carousel-content text-center o_colored_level o_grid_item g-col-lg-12 col-10 offset-1 offset-lg-0 g-height-7 col-lg-12" style="z-index: 1; grid-area: 4 / 1 / 11 / 13;">
+                                    <h2 class="display-3-fs">
+                                        <font class="text-o-color-4">
+                                            <span class="h2-fs">Applying an engineering-led,&amp;nbsp;<br/>
+                                                construction-driven mindset to <strong>Industrial</strong> projects</span>
+                                    </font>
+                                    <br/>
+                                </h2>
+                                <div class="s_hr pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                    <hr class="mx-auto w-75" style="border-top: 1px solid rgb(206, 212, 218);"/>
+                                </div>
+                                <p>
+                                    <font class="text-200">Drawing on 140 years of experience and resources, We are supporting the development and execution of critical and first-of-a-kind&amp;nbsp;<br/>
+                                            Industrial projects by providing adaptable, custom solutions that fit the evolving needs of our clients and markets.</font>
+                                    <br/>
+                                </p>
+                                <p>
+                                    <a href="/markets" class="btn btn-primary" data-bs-original-title="" title="">Start your journey</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item o_colored_level pt32 pb32 oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/593-69d82054/Project-Neon_Las-Vegas-NV_-3.webp&quot;); background-position: 50% 100%;" data-name="Slide" data-filter-options="{&quot;filterColor&quot;:&quot;rgba(0, 0, 0, 0.5)&quot;}" data-mimetype="image/webp" data-original-id="590" data-original-src="/web/image/590-19560296/Project-Neon_Las-Vegas-NV_-3.webp" data-mimetype-before-conversion="image/webp" data-resize-width="1920" data-gl-filter="custom">
+                    <div class="oe_unremovable container">
+                        <div class="row o_grid_mode" data-row-count="10">
+                            <div class="carousel-content text-center o_colored_level o_grid_item g-col-lg-12 col-10 offset-1 offset-lg-0 g-height-7 col-lg-12" style="z-index: 1; grid-area: 4 / 1 / 11 / 13;">
+                                <h2 class="display-3-fs">
+                                    <font class="text-o-color-4">
+                                        <span class="h2-fs">Unmatched performance in <strong>Transportation</strong>
+                                            <br/>
+                                                    infrastructure development</span>
+                                    </font>
+                                    <br/>
+                                </h2>
+                                <div class="s_hr pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                                    <hr class="mx-auto w-75" style="border-top: 1px solid rgb(206, 212, 218);"/>
+                                </div>
+                                <p>
+                                    <font class="text-o-color-4">As one of the largest transportation contractors in Java - Indonesia,&amp;nbsp;<br/>
+                                                we construct and upgrade interstates; highways and bridges; rail lines and rail yards;&amp;nbsp;<br/>
+                                                urban mass transit systems; and airport runways, taxiways and associated facilities.</font>
+                                <font class="text-200">​</font>
+                                <br/>
+                            </p>
+                            <p>
+                                <a href="/markets" class="btn btn-primary" data-bs-original-title="" title="">Start your journey</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="carousel-item o_colored_level pt32 pb32 oe_img_bg o_bg_img_center" style="background-image: url(&quot;/web/image/594-1118072e/Carlsbad_Desal-AerialSite_01-1024x683-1.webp&quot;); background-position: 50% 100%;" data-name="Slide" data-filter-options="{&quot;filterColor&quot;:&quot;rgba(0, 0, 0, 0.5)&quot;}" data-mimetype="image/webp" data-original-id="592" data-original-src="/web/image/592-50952fd6/Carlsbad_Desal-AerialSite_01-1024x683-1.jpg" data-mimetype-before-conversion="image/jpeg" data-resize-width="1024" data-gl-filter="custom">
+                <div class="oe_unremovable container">
+                    <div class="row o_grid_mode" data-row-count="10">
+                        <div class="carousel-content text-center o_colored_level o_grid_item g-col-lg-12 col-10 offset-1 offset-lg-0 g-height-7 col-lg-12" style="z-index: 1; grid-area: 4 / 1 / 11 / 13;">
+                            <h2 class="display-3-fs">
+                                <font class="text-o-color-4">
+                                    <span class="h2-fs">Flexible project delivery methods&amp;nbsp;<br/>
+                                            for <strong>Water and Wastewater</strong> projects</span>
+                            </font>
+                            <br/>
+                        </h2>
+                        <div class="s_hr pt8 pb24" data-snippet="s_hr" data-name="Separator">
+                            <hr class="mx-auto w-75" style="border-top: 1px solid rgb(206, 212, 218);"/>
+                        </div>
+                        <p>
+                            <font class="text-200">We understand that each project is unique and we work with our clients to determine the best delivery method to support their project,&amp;nbsp;<br/>
+                                        be it a collaborative procurement or a traditional design-bid-build.</font>
+                            <br/>
+                        </p>
+                        <p>
+                            <a href="/markets" class="btn btn-primary" data-bs-original-title="" title="">Start your journey</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a class="carousel-control-prev o_not_editable o_we_no_overlay" role="img" aria-label="Sebelum" title="Sebelum" href="#myCarousel1727583893716" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"/>
+        <span class="visually-hidden o_default_snippet_text">Sebelumnya</span>
+    </a>
+    <a class="carousel-control-next o_not_editable o_we_no_overlay" role="img" aria-label="Next" title="Next" href="#myCarousel1727583893716" data-bs-slide="next">
+        <span class="carousel-control-next-icon"/>
+        <span class="visually-hidden o_default_snippet_text">Selanjutnya</span>
+    </a>
+</div>
+</section>
+<section class="s_text_image pb96 pt96 o_colored_level" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none;">
+<div class="container">
+    <div class="row align-items-start">
+        <div class="pt16 pb16 o_colored_level col-lg-8" style="padding: 24px; border-color: rgb(70, 77, 83) !important; border-radius: 4px !important;">
+            <h2 class="o_default_snippet_text">{Company Name}</h2>
+            <p>
+                <br/>
+            </p>
+            <p>
+                <span class="h4-fs">{Company Name} is one of Java largest and most respected engineering and construction organizations. We commit to safety, quality and environmental stewardship is ingrained in everything we do.&amp;nbsp;<br/>
+                It’s visible in our core values, the work that we build and in our people.&amp;nbsp;</span>
+            </p>
+            <p>
+                <br/>
+            </p>
+            <p>
+                <span class="h4-fs">Learn more&amp;nbsp;about {Company Name} services</span>
+            </p>
+            <p class="o_default_snippet_text">
+                <a href="/services/engineering" class="btn btn-fill-primary btn-lg mb-2" data-bs-original-title="" title="">Engineering</a>&amp;nbsp;<a href="/services/construction" class="btn btn-fill-primary btn-lg mb-2" data-bs-original-title="" title="">Construction</a>&amp;nbsp;<a href="/services/procurement" class="btn btn-fill-primary btn-lg mb-2" data-bs-original-title="" title="">Procurement</a>&amp;nbsp;<a href="/services/foundations" class="btn btn-fill-primary btn-lg mb-2" data-bs-original-title="" title="">Foundations</a>&amp;nbsp;<a href="/services/development" class="btn btn-fill-primary btn-lg mb-2" data-bs-original-title="" title="">Development</a>
+                <br/>
+            </p>
+        </div>
+        <div class="o_colored_level pb32 pt32 col-lg-3" style="padding: 24px; border-color: rgb(70, 77, 83) !important; border-radius: 4px !important;">
+            <p style="margin-bottom: 0px;">
+                <strong>
+                    <span class="h3-fs">$17.1 billion</span>
+                </strong>
+            </p>
+            <p>2023 Revenues</p>
+            <p style="margin-bottom: 0px;">
+                <strong>
+                    <span class="h3-fs">31,100</span>
+                </strong>
+            </p>
+            <p class="o_default_snippet_text">Craft and staff employees</p>
+            <p style="margin-bottom: 0px;">
+                <strong>
+                    <span class="h3-fs">#2</span>
+                </strong>
+            </p>
+            <p class="o_default_snippet_text">Rank in ENR's list of Top 400 Contractors</p>
+        </div>
+
+    </div>
+</div>
+</section>
+<section class="s_banner pt96 pb96 parallax s_parallax_is_fixed o_colored_level o_full_screen_height" data-scroll-background-ratio="1" data-snippet="s_banner" data-name="Banner" style="background-image: none;">
+<span class="s_parallax_bg oe_img_bg" style="background-image: url('/web/image/website.s_banner_default_image'); background-position: 50% 0;"/>
+<div class="container">
+    <div class="row s_nb_column_fixed" data-row-count="11">
+        <div class="justify-content-center g-height-8 col-lg-6 o_cc o_cc1 pt32 pb32 shadow rounded o_colored_level" data-name="Box">
+            <h1 class="display-3">A Fresh Perspective.</h1>
+            <p class="lead">
+        We are a full-service general contracting company specializing in residential, commercial, and building construction. Our projects are located throughout the Java - Indonesia, in both urban and rural areas.
+            </p>
+            <p class="mb-0">
+                <a class="btn btn-fill-primary" href="/markets" data-bs-original-title="" title="">
+        Learn More
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+</section>
+<section class="s_references pt48 pb32 o_colored_level" data-snippet="s_references" data-name="References" style="background-image: none;">
+<div class="container">
+    <h2 style="text-align: center;" class="o_default_snippet_text">Our References</h2>
+    <p style="text-align: center;" class="o_default_snippet_text">We are in good company.</p>
+    <div class="row">
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_demo_image_1" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="88" data-original-src="/website/static/src/img/snippets_demo/s_references_1.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_demo_image_2" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="89" data-original-src="/website/static/src/img/snippets_demo/s_references_2.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_demo_image_3" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="90" data-original-src="/website/static/src/img/snippets_demo/s_references_3.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_demo_image_4" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="91" data-original-src="/website/static/src/img/snippets_demo/s_references_4.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_demo_image_5" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="92" data-original-src="/website/static/src/img/snippets_demo/s_references_5.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+        <div class="col-lg-2 pt16 pb16 o_colored_level">
+            <img src="/web/image/website.s_reference_default_image_6" class="img img-fluid mx-auto" alt="" loading="lazy" data-mimetype="image/png" data-original-id="93" data-original-src="/website/static/src/img/snippets_demo/s_references_6.png" data-mimetype-before-conversion="image/png"/>
+        </div>
+    </div>
+</div>
+</section>
+<section class="s_text_image o_cc o_cc5 pb96 pt96 o_colored_level" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none;">
+<div class="container">
+    <div class="row align-items-center">
+        <div class="col-lg-6 pt16 pb16 border o_colored_level" style="padding:24px; border-width: 1px !important; border-color: rgb(70,77,83) !important; border-radius: 4px !important;">
+            <h2>Our Work</h2>
+            <p>Building Dreams into Reality
+            </p>
+            <p>        
+        When working on a construction project, we prioritize safety, quality, and sustainability.
+            </p>
+        </div>
+        <div class="pt16 pb16 col-lg-5 offset-lg-1">
+            <img src="/web/image/website.s_text_image_default_image" class="img img-fluid mx-auto" alt="" loading="lazy"/>
+        </div>
+    </div>
+</div>
+</section>
+<section class="s_image_gallery o_masonry o_cc o_cc3 pt0 pb0 o_spc-none o_colored_level" data-vcss="001" data-columns="3" style="overflow: hidden; background-image: none;" data-snippet="s_images_wall" data-name="Images Wall">
+<div class="container-fluid">
+    <div class="row s_nb_column_fixed">
+        <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_03" data-index="0" data-name="Image" alt=" " loading="lazy"/>
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_10" data-index="3" data-name="Image" alt=" " loading="lazy"/>
+        </div>
+        <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_13" data-index="1" data-name="Image" alt=" " loading="lazy"/>
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_05" data-index="4" data-name="Image" alt=" " loading="lazy"/>
+        </div>
+        <div class="o_masonry_col o_snippet_not_selectable col-lg-4">
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_14" data-index="2" data-name="Image" alt=" " loading="lazy"/>
+            <img class="img img-fluid d-block" src="/web/image/website.library_image_16" data-index="5" data-name="Image" alt=" " loading="lazy"/>
+        </div>
+    </div>
+</div>
+</section>
+<section class="s_call_to_action o_cc o_cc3 pt48 pb24 o_colored_level" data-snippet="s_call_to_action" data-name="Call to Action" style="background-image: none;">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-9 pb16">
+            <h3>
+        Join our list of satisfied clients and let us bring your vision to life.
+            </h3>
+        </div>
+        <div class="col-lg-3 pt8 o_colored_level">
+            <p style="text-align: right;">
+                <a class="btn btn-primary btn-lg" href="/contactus" data-bs-original-title="" title="">Contact Us</a>
+            </p>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+</t>
+</t>
